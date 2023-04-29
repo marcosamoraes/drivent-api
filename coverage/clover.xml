@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1682745910511" clover="3.2.0">
-  <project timestamp="1682745910511" name="All files">
+<coverage generated="1682749008246" clover="3.2.0">
+  <project timestamp="1682749008246" name="All files">
     <metrics statements="587" coveredstatements="563" conditionals="87" coveredconditionals="66" methods="99" coveredmethods="92" elements="773" coveredelements="721" complexity="0" loc="587" ncloc="587" packages="27" files="66" classes="66"/>
     <package name="src">
       <metrics statements="22" coveredstatements="16" conditionals="2" coveredconditionals="0" methods="5" coveredmethods="2"/>
@@ -71,7 +71,7 @@
         <line num="11" count="3" type="stmt"/>
         <line num="13" count="2" type="stmt"/>
       </file>
-      <file name="bookings-controller.ts" path="/home/marcos/Documents/Projects/driven/drivent-api/src/controllers/bookings-controller.ts">
+      <file name="booking-controller.ts" path="/home/marcos/Documents/Projects/driven/drivent-api/src/controllers/booking-controller.ts">
         <metrics statements="23" coveredstatements="23" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
         <line num="1" count="11" type="stmt"/>
         <line num="4" count="11" type="stmt"/>
@@ -643,9 +643,9 @@
         <line num="60" count="11" type="stmt"/>
       </file>
     </package>
-    <package name="src.services.bookings-service">
+    <package name="src.services.booking-service">
       <metrics statements="32" coveredstatements="32" conditionals="13" coveredconditionals="12" methods="4" coveredmethods="4"/>
-      <file name="index.ts" path="/home/marcos/Documents/Projects/driven/drivent-api/src/services/bookings-service/index.ts">
+      <file name="index.ts" path="/home/marcos/Documents/Projects/driven/drivent-api/src/services/booking-service/index.ts">
         <metrics statements="32" coveredstatements="32" conditionals="13" coveredconditionals="12" methods="4" coveredmethods="4"/>
         <line num="1" count="11" type="stmt"/>
         <line num="2" count="11" type="stmt"/>
